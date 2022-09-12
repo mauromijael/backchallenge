@@ -1,0 +1,11 @@
+{
+    "app": {
+        "server": {
+            "url": "http://localhost",
+            "port": 3000
+        },
+        "mongodb": {
+            "URI": "mongodb://challenge:challenge@churrasco.uk.to:27017/challenge?authSource=admin"
+            }
+        }
+    }
